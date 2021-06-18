@@ -4,15 +4,15 @@
     "inherits": "fdmprinter",
     "metadata": {
         "visible": true,
-        "author": "Raise3D",
+        "author": "nautalis-make",
         "manufacturer": "Raise3D",
         "category": "Other",
         "file_formats": "text/x-gcode",
         "has_materials": true,
         "machine_extruder_trains":
         {
-            "0": "raise3D_Pro2plus_dual_extruder_0_custom",
-            "1": "raise3D_Pro2plus_dual_extruder_1_custom"
+            "0": "Raise3D_Pro2_Plus_Dual_Extruder_0",
+            "1": "Raise3D_Pro2_Plus_Dual_Extruder_1"
         }
     },
 
