@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "Raise3D Pro2+ Dual",
+    "name": "Raise3D Pro2 Dual",
     "inherits": "fdmprinter",
     "metadata": {
         "visible": true,
@@ -42,7 +42,7 @@
         "material_diameter": { "default_value": 1.75 },
         "speed_layer_0":{ "value": 15.0 },
         "machine_width": { "default_value": 305 },
-        "machine_height": { "default_value": 605 },
+        "machine_height": { "default_value": 305 },
         "machine_depth": { "default_value": 305 },
         "machine_center_is_zero": { "default_value": false },
         "machine_heated_bed": { "default_value": true },
